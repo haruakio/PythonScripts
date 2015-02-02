@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0276a0c-390d-474b-bf49-38e1af66de52" name="Default" comment="" />
+    <ignored path="PyFirst.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/RemoveDuplicates.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1405403002526" ignored="false" />
+    <file path="/setup.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1405313357626" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1405489091170" ignored="false" />
+    <file path="/RenameRecordedFile.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1406006950173" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/PC.ipr" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1406008322349" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/gsrc/gw/rating/MonthlyProratableCostData.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412134820079" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/gsrc/gw/rating/AbstractJPMonthlyRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416283323476" ignored="false" />
+    <file path="/removeDisplayKeysByKeyList.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407465781965" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP/config/resources/productmodel/auditschedules/ReportCalendarQtrsExclLast.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407475784908" ignored="false" />
+    <file path="/makeSymlink.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407740755829" ignored="false" />
+    <file path="/fragment.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418968766537" ignored="false" />
+    <file path="/a.dummy" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946418930" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/config/config-override.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407739648165" ignored="false" />
+    <file path="/EmeraldAccInstaller.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418797133865" ignored="false" />
+    <file path="/Account.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1408336377512" ignored="false" />
+    <file path="$PROJECT_DIR$/../SeleniumTest/src/gw/pc8/Account.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1408336377999" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gsrc/gw/rating/rtm/builders/scenario/sample/JPTSampleDataFactorRowBuilder.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1408507767011" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
+    <file path="/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415950830055" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
+    <file path="/AbstractJPMonthlyRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412836634774" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/rating/AbstractJPTRatingTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414658472905" ignored="false" />
+    <file path="/Dummy.txt" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418968766537" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/gsrc/gw/rating/AbstractJPMonthlyRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415951467557" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-els-JP/gsrc/gw/sampledata/SampleDataGroup.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409563101190" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/gsrc/gw/lob/jppa/rating/JPPARatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415681904034" ignored="false" />
+    <file path="/JPPARatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415680272961" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/cali/CALIUtils.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885209876" ignored="false" />
+    <file path="/CALIUtils.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885209876" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/cali/CALIAPI.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885331133" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/cali/enhancements/CALIPolicyInfoEnhancement.gsx" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885696434" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/nliro/BI_PIP.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885734121" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/nliro/VehiclePropertyReport.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885745540" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/nliro/sompovan/InjuryAccidentReport.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885786975" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/els/jp/coinsurance/CoinsuranceAutoFollower.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885913809" ignored="false" />
+    <file path="/CoinsuranceAutoFollower.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409885913809" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/plugin/preupdate/impl/CALIPreUpdateHandlerImpl.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410316006502" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/templates/dataextraction/sompovan_propertyaccidentreport_format.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410152715440" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/nliro/sompovan/PropertyAccidentReport.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410152715440" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-test/src/gw/testharness/v3/CCScratchSuiteV3.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411101476056" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/web/pcf/auto/jp/cali/CALIMatchingClaimsLV.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410238623039" ignored="false" />
+    <file path="/CALIMatchingClaimsLV.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410238623039" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/smoketest/cc/locale/jp/nliro/SOMPOVANPropertyAccidentSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410325157956" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/messaging/messaging-config.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410241924153" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/gsrc/gw/auto/jp/nliro/NLIROUtils.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410242807308" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/smoketest/cc/locale/jp/nliro/SOMPOVANInjuryAccidentSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411106415842" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/rules/EventMessage/EventFired_dir/EFR52000NLIRO_dir/EFR52050CreateSOMPOVANInjury_dir/EFR52052Amendment.gr" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410251894526" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/rules/EventMessage/EventFired_dir/EFR52000NLIRO_dir/order.txt" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410315195272" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/nliro/SOMPOVAN_InjuryAccidentReport_Test.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410315874535" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/web/pcf/auto/jp/cali/HospitalizationLV.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410400263308" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/rules/EventMessage/EventFired_dir/EFR52000NLIRO_dir/EFR52200RecoveryStatusChanged_dir/EFR52230CALIRecovery.gr" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410419990120" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/smoketest/cc/locale/jp/nliro/AutoStats_SmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410424747007" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/nliro/AutoStatsTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410424727621" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/nliro/CALI_Report_Test.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410424747007" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/smoketest/cc/locale/jp/nliro/BI_PIPSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410937977319" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/smoketest/cc/locale/jp/nliro/CALIReportSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410424747007" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP/config/rules/EventMessage/EventFired_dir/EFR52000NLIRO_dir/EFR52100PaymentStatusChanged_dir/EFR52120VehicleProperty.gr" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410420770643" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc/gsrc/wsi/remote/gw/webservice/pc/pc800/RICoverageAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410928917632" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc/gsrc/wsi/remote/gw/webservice/pc/pc800/entities.xsd" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1410928917632" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-auto-JP-test/gtest/gw/smoketest/cc/locale/jp/nliro/BI_PIP_PIPSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411001934255" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc/config/web/pcf/claim/newtransaction/manualcheck/NewCheckPaymentPanelSet.Single.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411021006986" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc/config/web/pcf/claim/newtransaction/manualcheck/NewCheckPaymentPanelSet.Multi.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411020963066" ignored="false" />
+    <file path="C:/eng/emerald/cc/rdc/jp/stable/app-ab/ab-els-JP/config/locale/ja/typelist.properties" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411535909094" ignored="false" />
+    <file path="/typelist.properties" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411535846712" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP/config/web/pcf/line/jppa/policy/RatingCumulDetailsPanelSet.JPPALine.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411968557444" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/config/extensions/entity/MonthlyProratableCost.eti" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1411632038829" ignored="false" />
+    <file path="/mergeProperties.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412744387077" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/config/web/pcf/line/jppa/policy/RatingCumulDetailsPanelSet.JPPALine.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412837198210" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/config/locale/ja_JP/display.properties" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412837009362" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/config/locale/en_US/display.properties" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412837049754" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415950800806" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415950831980" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-simple-rating-ja-jp-test/gsrc/pel/jpt/policychange/PolicyChangeWizardJPTMode.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412851126972" ignored="false" />
+    <file path="/*.regexp" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415945779336" ignored="false" />
+    <file path="$PROJECT_DIR$/../SeleniumTest/src/gw/pc7/Login.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414717337219" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-simple-rating-ja-jp/gsrc/gw/lob/jpt/rating/JPTRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415685393469" ignored="false" />
+    <file path="/JPTRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1413513162949" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/features/JPTAlternateProration.feature" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415945773765" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/features/JPTUserSubmittedExamples.feature" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415769227141" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/results/thirdparty-results/JPTBulkRatingResults.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414726086366" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/features/JPTDayOnePolicyChange.feature" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414658054111" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-test/config/database-config.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414124896180" ignored="false" />
+    <file path="/database-config.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414124896180" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/config/database-config.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414124853893" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/features/JPTOOSPolicyChange.feature" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414658054111" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/config/extensions/Cost.etx" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414717914663" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/config/extensions/JPPACost.eti" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414717962353" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-simple-rating-ja-jp/config/extensions/JPTCost.eti" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414717979681" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/gsrc/gw/rating/MonthlyProratableCostData.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416198829693" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/config/web/pcf/job/common/Quote_SummaryDV.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414737843975" ignored="false" />
+    <file path="/JPTUserSubmittedExamples.feature" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414725416164" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/gw/rating/AbstractRatingEngineBase.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415679652241" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/steps/JPTBulkRatingSteps.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415679652241" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/rating/JPTSliceMapTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415679652241" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP/gsrc/gw/lob/jppa/rating/JPPARatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415689374759" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gsrc/gw/lob/jpt/rating/JPTRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415689367937" ignored="false" />
+    <file path="$PROJECT_DIR$/../ibcli/src/ibcli/IBCLI.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415770200665" ignored="false" />
+    <file path="/IBCLI.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415770200665" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/gw/rating/CostData.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415863426506" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP/gsrc/gw/plugin/policyperiod/impl/EffectiveTimeJapanPlugin.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415940046367" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP/gsrc/gw/financials/PolicyPeriodMonthlyTransactionCalculator.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416288703499" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/steps/JPTAlternateProrationSteps.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/gsrc/gw/financials/PolicyPeriodFinancialsEnhancement.gsx" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415949913646" ignored="false" />
+    <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/gsrc/gw/financials/PolicyPeriodMonthlyTransactionCalculator.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415950753111" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/config/web/pcf/line/jpt/policy/RatingCumulDetailsPanelSet.JPTLine.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416211321157" ignored="false" />
+    <file path="/RatingCumulDetailsPanelSet.JPTLine.pcf" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416209644985" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-test/src/gw/testharness/v3/PCScratchSuiteV3.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418968526372" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/job/policychange/JPPAOutOfSequenceChangeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416286523981" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/job/policychange/JPPAPolicyChangeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416288666104" ignored="false" />
+    <file path="/JPPAPolicyChangeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416285982622" ignored="false" />
+    <file path="/JPPAOutOfSequenceChangeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416286523981" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/sompovan/SOMPOVANSendGrade1To5CancellationTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418802493488" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/sompovan/SOMPOVANSendGrade1To5OnLossNotificationTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418955015402" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/sompovan/SOMPOVANSendGrade1To5OnRenewalSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418868913486" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc800/productmodel/ProductModelAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc700/account/AccountAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc700/contact/ContactAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc700/contact/AddressAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc800/job/CancellationAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc700/reinsurance/RICoverageAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc700/productmodel/ProductModelAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc700/job/CancellationAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc800/account/AccountAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc800/MessagingToolsAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc800/contact/ContactAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc800/contact/AddressAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/wsi/local/gw/webservice/pc/pc800/reinsurance/RICoverageAPI.wsdl" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418803803357" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/sompovan/SOMPOVANSendRequestOnRenewalSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418804801165" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/sompovan/SOMPOVANSendGrade1To5AdditionalTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418972112588" ignored="false" />
+    <file path="/SOMPOVANSendGrade1To5AdditionalTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418869321780" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/sompovan/SOMPOVANSendRequestMessageSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418964282524" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/smoketest/pc/lob/jppa/JPPASuspendedCoverageSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418964751461" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/job/rewrite/JPPARewriteSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418972112588" ignored="false" />
+    <file path="/JPPARewriteSmokeTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418965977500" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/job/submission/JPPASubmissionStepJumpTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418965993209" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/job/submission/JPPASubmissionTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418966117408" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/sompovan/PreviousPolicyNumberLengthValidationTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418972112588" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PyFirst" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="removeDisplayKeysByKeyList.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="365" selection-end="376" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmeraldAccInstaller.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="25" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mergeProperties.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gw/displaykey/mergeProperties.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="975" selection-end="1007" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="makeSymlink.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gw/symlink/makeSymlink.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="14" selection-start="221" selection-end="221" vertical-scroll-proportion="0.030303031">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pt2/setup.py" />
+        <option value="$PROJECT_DIR$/pt2/RemoveDuplicates.py" />
+        <option value="$PROJECT_DIR$/pt2/RenameRecordedFile.py" />
+        <option value="$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py" />
+        <option value="$PROJECT_DIR$/gw/symlink/makeSymlink.py" />
+        <option value="$PROJECT_DIR$/gw/displaykey/mergeProperties.py" />
+        <option value="$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.EmeraldAccInstaller">
+    <configuration default="false" name="mergeProperties" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34_32/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gw/displaykey" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/displaykey/mergeProperties.py" />
+      <option name="PARAMETERS" value="&quot;C:\depot\PC\802\git\modules\configuration\config\locale\ja\typelist.properties&quot; &quot;C:\tmp\PolicyCenter\modules\configuration\config\locale\ja\typelist.properties&quot;" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonScripts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="RemoveDuplicates" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pt2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pt2/RemoveDuplicates.py" />
+      <option name="PARAMETERS" value="C:\tmp\go 201407140900_日本語FfmpegTsCutMP4" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RenameRecordedFile" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34_32/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pt2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pt2/RenameRecordedFile.py" />
+      <option name="PARAMETERS" value="&quot;F:\FFmpegOut\ゲーム・オブ・スローンズ２ ＃7 .mp4" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="removeDisplayKeysByKeyList" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34_32/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gw/displaykey" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py" />
+      <option name="PARAMETERS" value="C:\depot\PC\802\RC1\modules\pc-lang-ja\config\locale\ja\display.properties C:\Users\hogawa\Dropbox\Perl\Guidewire\displaykey.lst" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="makeSymlink" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34_32/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gw/symlink" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/symlink/makeSymlink.py" />
+      <option name="PARAMETERS" value="C:\eng\emerald\pc\rdc\jp\stable\app-pc\pc\config\resources\productmodel C:\eng\emerald\pc\rdc\jp\stable\app-pc\pc-els-JP\config\resources\productmodel" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EmeraldAccInstaller" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34_32/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gw/install" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyFirst" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py" />
+      <option name="PARAMETERS" value="C:\depot\PC\802\base-module.zip C:\depot\PC\802\git\" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.RemoveDuplicates" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RenameRecordedFile" />
+      <item index="2" class="java.lang.String" itemvalue="Python.removeDisplayKeysByKeyList" />
+      <item index="3" class="java.lang.String" itemvalue="Python.makeSymlink" />
+      <item index="4" class="java.lang.String" itemvalue="Python.EmeraldAccInstaller" />
+      <item index="5" class="java.lang.String" itemvalue="Python.mergeProperties" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.mergeProperties" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="784" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24957842" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27198365" sideWeight="0.690825" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30862328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="0" selection-end="822" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RenameRecordedFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="27" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="26" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RenameRecordedFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="33" selection-start="395" selection-end="414" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="9" selection-start="21" selection-end="21" vertical-scroll-proportion="0.019562716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gw/displaykey/mergeProperties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="975" selection-end="1007" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="365" selection-end="376" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gw/symlink/makeSymlink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="14" selection-start="221" selection-end="221" vertical-scroll-proportion="0.030303031">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.4.1 (C:/Python34_32/python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PyFirst</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.4.1 (C:/Python34/python.exe)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
