@@ -61,8 +61,11 @@ def unzip(zip_filename):
                 os.mkdir(path)
         else:
             if filename.endswith('.properties'):
-                org_dic = readFileToMap(os.path.join(target,filename))
-                merged_dic = readLinesToMap(zip_file.read(filename).decode('utf8'), org_dic)
+                if os.path.isfile( os.path.join(target,filename) ):
+                    org_dic = readFileToMap(os.path.join(target,filename))
+                    merged_dic = readLinesToMap(zip_file.read(filename).decode('utf8'), org_dic)
+                else:
+                    merged_dic = readLinesToMap(zip_file.read(filename).decode('utf8'))
                 unzip_file = codecs.open(os.path.join(target,filename), "wb")
                 writeMap(unzip_file, merged_dic)
             else:
