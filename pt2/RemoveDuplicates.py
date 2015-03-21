@@ -2,12 +2,6 @@ import glob
 import os
 import argparse
 
-parser = argparse.ArgumentParser(description='Remove all files except the biggest, then rename it for PT2 output')
-parser.add_argument('path')
-parser.add_argument('filename')
-args = parser.parse_args()
-print(args)
-
 def listFiles(path, matchStr):
     return glob.glob(path + os.sep + matchStr + '*.*')
 
@@ -22,10 +16,22 @@ def removeFiles(files):
 def renameToTitleOnly(path, ext='.ts'):
     name = os.path.basename(path)
     words = name.split('_')
-    os.rename( path, os.path.dirname(path)+os.sep+words[1]+ext)
+    newName = os.path.dirname(path)+os.sep+words[1]+ext
+    os.rename( path, newName)
+    return newName
 
-files = listFiles(args.path, args.filename)
-maxFile = maxSizeFile(files)
-files.remove(maxFile)
-removeFiles(files)
-renameToTitleOnly(maxFile)
+def removeDuplicates(path, filename):
+    files = listFiles(path, filename)
+    maxFile = maxSizeFile(files)
+    files.remove(maxFile)
+    removeFiles(files)
+    return renameToTitleOnly(maxFile)
+
+### Main ###
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Remove all files except the biggest, then rename it for PT2 output')
+    parser.add_argument('path')
+    parser.add_argument('filename')
+    args = parser.parse_args()
+    print(args)
+    removeDuplicates(args.path, args.filename)
