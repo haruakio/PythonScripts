@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0276a0c-390d-474b-bf49-38e1af66de52" name="Default" comment="" />
+    <list default="true" id="e0276a0c-390d-474b-bf49-38e1af66de52" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py" afterPath="$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gw/symlink/makeSymlink.py" afterPath="$PROJECT_DIR$/gw/symlink/makeSymlink.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PyFirst.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/RemoveDuplicates.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1405403002526" ignored="false" />
+    <file path="/RemoveDuplicates.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1426975586952" ignored="false" />
     <file path="/setup.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1405313357626" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1405489091170" ignored="false" />
     <file path="/RenameRecordedFile.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1406006950173" ignored="false" />
     <file path="C:/eng/diamond/pc/rdc/jp/stable/PC.ipr" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1406008322349" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/gsrc/gw/rating/MonthlyProratableCostData.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412134820079" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/gsrc/gw/rating/AbstractJPMonthlyRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1416283323476" ignored="false" />
     <file path="/removeDisplayKeysByKeyList.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407465781965" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP/config/resources/productmodel/auditschedules/ReportCalendarQtrsExclLast.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407475784908" ignored="false" />
-    <file path="/makeSymlink.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407740755829" ignored="false" />
-    <file path="/fragment.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418968766537" ignored="false" />
-    <file path="/a.dummy" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946418930" ignored="false" />
+    <file path="/makeSymlink.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427960694625" ignored="false" />
+    <file path="/fragment.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789735586" ignored="false" />
+    <file path="/a.dummy" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427960807377" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/config/config-override.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1407739648165" ignored="false" />
-    <file path="/EmeraldAccInstaller.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418797133865" ignored="false" />
-    <file path="/Account.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1408336377512" ignored="false" />
+    <file path="/EmeraldAccInstaller.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1432780313391" ignored="false" />
+    <file path="/Account.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1423173522115" ignored="false" />
     <file path="$PROJECT_DIR$/../SeleniumTest/src/gw/pc8/Account.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1408336377999" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gsrc/gw/rating/rtm/builders/scenario/sample/JPTSampleDataFactorRowBuilder.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1408507767011" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
@@ -26,7 +30,7 @@
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
     <file path="/AbstractJPMonthlyRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412836634774" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gtest/gw/lob/jpt/rating/AbstractJPTRatingTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414658472905" ignored="false" />
-    <file path="/Dummy.txt" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418968766537" ignored="false" />
+    <file path="/Dummy.txt" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1432781019994" ignored="false" />
     <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/gsrc/gw/rating/AbstractJPMonthlyRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415951467557" ignored="false" />
     <file path="C:/eng/emerald/cc/rdc/jp/stable/app-cc/cc-els-JP/gsrc/gw/sampledata/SampleDataGroup.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1409563101190" ignored="false" />
     <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/gsrc/gw/lob/jppa/rating/JPPARatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415681904034" ignored="false" />
@@ -77,7 +81,7 @@
     <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-pa-ja-jp/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415950800806" ignored="false" />
     <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-monthly-proration-ja-jp/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415950831980" ignored="false" />
     <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-simple-rating-ja-jp-test/gsrc/pel/jpt/policychange/PolicyChangeWizardJPTMode.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1412851126972" ignored="false" />
-    <file path="/*.regexp" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415945779336" ignored="false" />
+    <file path="/*.regexp" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428389622346" ignored="false" />
     <file path="$PROJECT_DIR$/../SeleniumTest/src/gw/pc7/Login.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1414717337219" ignored="false" />
     <file path="C:/eng/diamond/pc/rdc/jp/stable/app-pc/pc-pel-simple-rating-ja-jp/gsrc/gw/lob/jpt/rating/JPTRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415685393469" ignored="false" />
     <file path="/JPTRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1413513162949" ignored="false" />
@@ -102,7 +106,7 @@
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/gsrc/gw/lob/jpt/rating/JPTRatingEngine.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415689367937" ignored="false" />
     <file path="$PROJECT_DIR$/../ibcli/src/ibcli/IBCLI.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415770200665" ignored="false" />
     <file path="/IBCLI.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415770200665" ignored="false" />
-    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/gw/rating/CostData.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415863426506" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc/gsrc/gw/rating/CostData.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428384420224" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP/gsrc/gw/plugin/policyperiod/impl/EffectiveTimeJapanPlugin.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415940046367" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/config/resources/ScriptParameters.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1415946441311" ignored="false" />
@@ -143,6 +147,88 @@
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/job/submission/JPPASubmissionStepJumpTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418965993209" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/pel/jppa/job/submission/JPPASubmissionTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418966117408" ignored="false" />
     <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/gtest/gw/sompovan/PreviousPolicyNumberLengthValidationTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1418972112588" ignored="false" />
+    <file path="$PROJECT_DIR$/../GWSeleniumTest/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1423173803229" ignored="false" />
+    <file path="/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427854068890" ignored="false" />
+    <file path="$PROJECT_DIR$/../GWSeleniumTest/src/main/java/gw/pc8/Account.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1423172775466" ignored="false" />
+    <file path="$PROJECT_DIR$/../GWSeleniumTest/src/main/java/gw/pc7/Login.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1423165444755" ignored="false" />
+    <file path="/Login.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1423172967898" ignored="false" />
+    <file path="$PROJECT_DIR$/../GWSeleniumTest/src/main/java/gw/pc8/UxTest.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1423173267666" ignored="false" />
+    <file path="/UxTest.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1423173264062" ignored="false" />
+    <file path="$USER_HOME$/.m2/settings.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1424310456948" ignored="false" />
+    <file path="/EncodeRunner.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1426977243728" ignored="false" />
+    <file path="/EncodeRunnerTest.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1426977262176" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/src/gw/PcGlJpDummyFile.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789339375" ignored="false" />
+    <file path="/PcGlJpDummyFile.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789339375" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/src/gw/PcGlJpTestDummyFile.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="/PcGlJpTestDummyFile.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789358145" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/bnd.bnd" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789385939" ignored="false" />
+    <file path="/bnd.bnd" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789385939" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/bnd.generated" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789401377" ignored="false" />
+    <file path="/bnd.generated" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427789401685" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/gtest/gw/smoketest/pc/contacts/AddressInputSetJapanEnhancement.gsx" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427950140677" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/generated/pcftest/GlobalAddressInputSet_BigToSmall.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951116047" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/AgrexAddressSelectPopup.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/platform/pl/generated/gw/pl/geodata/zone/typekey/Country.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/BOPLinePropertyDV.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/generated/pcftest/RegionSearchInputSet_JP.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/IMARPartLevelInformationDV.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/ContractorsEquipmentPartPanelSet.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-test/generated/pcftest/GlobalAddressInputSet_BigToSmall.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/PolicyContactDetailsDV.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/AccountInfoInputSet.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/PolicyLineDV_GLLine.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/RegionSearchInputSet_JP.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/GlobalAddressInputSet_BigToSmall.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/generated/pcftest/AgrexAddressSelectPopup.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/generated/pcftest/GlobalAddressInputSet_BigToSmall.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/generated/pcftest/BALineCoveragePanelSet.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/generated/pcftest/StartPolicyChange.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/generated/pcftest/RegionSearchInputSet_JP.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/generated/pcftest/RegionSearchPopup.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/generated/pcftest/StartPolicyChange.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/generated/pcftest/BillingAdjustmentsInstallmentsLV.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/generated/pcftest/AgrexAddressSelectPopup.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951127730" ignored="false" />
+    <file path="/SubmissionWizardJPGLMode.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427951569705" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/gtest/gw/smoketest/pc/lob/jpgl/submission/SubmissionWizardJPGLMode.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1431055479840" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/extensions/entity/JPGLFLClassCode.eti" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1427960639596" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1431052402330" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP-test/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623639" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/extensions/entity/PolicyPeriod.JPGL.etx" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-auto-JP/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623639" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623639" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/platform/pl-parent/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623640" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-test/suites.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1429159546910" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-parent/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623640" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-els-JP-test/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623640" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623640" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-test/pom.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428282623640" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/systables/underwriting_companies.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194788" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/diff/JPGLDiffTree.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/systables.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/lookuptables/lookuptables.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/systables/jpgl_fl_class_codes.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428287194789" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/gtest/gw/smoketest/pc/lob/jpgl/submission/SubmissionWizardJPGLEnhancement.gsx" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428383996570" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/gtest/gw/smoketest/pc/lob/jpgl/submission/NewSubmissionJPGLEnhancement.gsx" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428383996570" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/gtest/gw/smoketest/pc/lob/jpgl/JPGLJobTestBase.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1429159546910" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP/generated/META-INF/MANIFEST.MF" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428907867485" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-proration-JP-test/generated/META-INF/MANIFEST.MF" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428907867485" ignored="false" />
+    <file path="/echo.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1428978331838" ignored="false" />
+    <file path="/JPGLCovCopy.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1430121509502" ignored="false" />
+    <file path="/RemoveLanguageTranslation.py" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1429588452729" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLPLCSLCov.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1430121292860" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLFLCSLCov.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1430121292860" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLCLCSLCov.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1430121292860" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLEVLDiscountCov-lookups.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1430121477386" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLEVLDiscountCov.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1430121477386" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/gtest/gw/smoketest/pc/lob/jpgl/submission/JPGLSubmissionTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1431055479840" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/bnd.bnd" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1431052402330" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLFLBICov.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1431055479840" ignored="false" />
+    <file path="$PROJECT_DIR$/../ibcli/src/main/java/ibcli/IBCLI.java" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1432603023053" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLASLSurchargeCov.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1432696815703" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP-test/gtest/gw/smoketest/pc/lob/jpgl/cancel/JPGLCancelAndReinstateTest.gs" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1432696815703" ignored="false" />
+    <file path="C:/eng/emerald/pc/rdc/jp/stable/app-pc/pc-gl-JP/config/resources/productmodel/policylinepatterns/JPGLLine/coveragepatterns/JPGLASLSurchargeCov-lookups.xml" changelist="e0276a0c-390d-474b-bf49-38e1af66de52" time="1432696815703" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +243,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -194,6 +279,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -203,19 +289,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
+      <file leaf-file-name="removeDisplayKeysByKeyList.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="13" column="38" selection-start="365" selection-end="401" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="removeDisplayKeysByKeyList.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py">
+      <file leaf-file-name="EncodeRunnerTest.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/pt2/EncodeRunnerTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="365" selection-end="376" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="23" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RenameRecordedFile.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pt2/RenameRecordedFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="28" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -224,7 +319,45 @@
       <file leaf-file-name="EmeraldAccInstaller.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="25" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
+            <state line="94" column="22" selection-start="3588" selection-end="3588" vertical-scroll-proportion="-39.037037">
+              <folding>
+                <element signature="e#25#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicates.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="38" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveLanguageTranslation.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gw/rating/RemoveLanguageTranslation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="37" selection-start="444" selection-end="468" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JPGLCovCopy.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gw/productmodel/JPGLCovCopy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="19" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pt2/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -233,7 +366,7 @@
       <file leaf-file-name="mergeProperties.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gw/displaykey/mergeProperties.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="975" selection-end="1007" vertical-scroll-proportion="0.0">
+            <state line="18" column="47" selection-start="462" selection-end="493" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -242,8 +375,10 @@
       <file leaf-file-name="makeSymlink.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gw/symlink/makeSymlink.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="14" selection-start="221" selection-end="221" vertical-scroll-proportion="0.030303031">
-              <folding />
+            <state line="17" column="33" selection-start="518" selection-end="518" vertical-scroll-proportion="0.17984694">
+              <folding>
+                <element signature="e#25#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -255,26 +390,39 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pt2/setup.py" />
-        <option value="$PROJECT_DIR$/pt2/RemoveDuplicates.py" />
         <option value="$PROJECT_DIR$/pt2/RenameRecordedFile.py" />
         <option value="$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py" />
-        <option value="$PROJECT_DIR$/gw/symlink/makeSymlink.py" />
         <option value="$PROJECT_DIR$/gw/displaykey/mergeProperties.py" />
+        <option value="$PROJECT_DIR$/pt2/RemoveDuplicates.py" />
+        <option value="$PROJECT_DIR$/pt2/EncodeRunner.py" />
+        <option value="$PROJECT_DIR$/test/pt2/EncodeRunnerTest.py" />
+        <option value="$PROJECT_DIR$/gw/echo.py" />
+        <option value="$PROJECT_DIR$/gw/rating/RemoveLanguageTranslation.py" />
+        <option value="$PROJECT_DIR$/gw/productmodel/JPGLCovCopy.py" />
         <option value="$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py" />
+        <option value="$PROJECT_DIR$/gw/symlink/makeSymlink.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1040" />
-    <option name="height" value="784" />
+    <option name="width" value="2514" />
+    <option name="height" value="1456" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -300,8 +448,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -309,15 +455,169 @@
               <option name="myItemId" value="PyFirst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.4.1 (C:/Python34_32/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.4.1 (C:/Python34_32/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python34_32" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.4.1 (C:/Python34_32/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pt2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pt2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rating" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="install" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -329,6 +629,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -358,6 +660,88 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="echo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonScripts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/echo.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JPGLCovCopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34_32/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gw/productmodel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonScripts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/productmodel/JPGLCovCopy.py" />
+      <option name="PARAMETERS" value="C:\eng\emerald\pc\rdc\jp\stable\app-pc\pc-gl-JP\config\resources\productmodel\policylinepatterns\JPGLLine\coveragepatterns\JPGLFLPDCov.xml" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RemoveLanguageTranslation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python34/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gw/rating" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonScripts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/rating/RemoveLanguageTranslation.py" />
+      <option name="PARAMETERS" value="C:\depot\PC\803\git\modules\configuration\gsrc\gw\sampledata\tiny\GL_v1.xml" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in EncodeRunnerTest" type="tests" factoryName="Unittests" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/pt2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonScripts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/pt2/EncodeRunnerTest.py" />
+      <option name="CLASS_NAME" value="EncodeRunnerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,7 +753,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyFirst" />
+      <module name="PythonScripts" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
@@ -392,7 +776,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyFirst" />
+      <module name="PythonScripts" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -543,10 +927,10 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyFirst" />
+      <module name="PythonScripts" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/symlink/makeSymlink.py" />
-      <option name="PARAMETERS" value="C:\eng\emerald\pc\rdc\jp\stable\app-pc\pc\config\resources\productmodel C:\eng\emerald\pc\rdc\jp\stable\app-pc\pc-els-JP\config\resources\productmodel" />
+      <option name="PARAMETERS" value="C:\eng\emerald\pc\rdc\jp\stable\app-pc\pc\config\resources\productmodel C:\eng\emerald\pc\rdc\jp\stable\app-pc\pc-gl-JP\config\resources\productmodel" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -562,25 +946,33 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyFirst" />
+      <module name="PythonScripts" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py" />
-      <option name="PARAMETERS" value="C:\depot\PC\802\base-module.zip C:\depot\PC\802\git\" />
+      <option name="PARAMETERS" value="-h" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="6">
+    <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Python.RemoveDuplicates" />
       <item index="1" class="java.lang.String" itemvalue="Python.RenameRecordedFile" />
       <item index="2" class="java.lang.String" itemvalue="Python.removeDisplayKeysByKeyList" />
       <item index="3" class="java.lang.String" itemvalue="Python.makeSymlink" />
       <item index="4" class="java.lang.String" itemvalue="Python.EmeraldAccInstaller" />
       <item index="5" class="java.lang.String" itemvalue="Python.mergeProperties" />
+      <item index="6" class="java.lang.String" itemvalue="Python.echo" />
+      <item index="7" class="java.lang.String" itemvalue="Python.JPGLCovCopy" />
+      <item index="8" class="java.lang.String" itemvalue="Python.RemoveLanguageTranslation" />
+      <item index="9" class="java.lang.String" itemvalue="Python tests.Unittests in EncodeRunnerTest" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.mergeProperties" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.JPGLCovCopy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RemoveLanguageTranslation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.echo" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in EncodeRunnerTest" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mergeProperties" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -599,8 +991,8 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="784" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="2514" height="1456" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -610,11 +1002,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299923" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24957842" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27198365" sideWeight="0.690825" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30862328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15538336" sideWeight="0.6700077" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47340015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -665,7 +1058,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update EmeraldAccInstaller to download build from url" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -679,6 +1072,8 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Add EncodeRunner for consolidated batch process" />
+    <MESSAGE value="Update EmeraldAccInstaller to download build from url" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,30 +1085,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="0" selection-end="822" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pt2/RenameRecordedFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="26" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" />
@@ -721,9 +1092,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
@@ -736,53 +1105,87 @@
         <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pt2/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pt2/RenameRecordedFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="33" selection-start="395" selection-end="414" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="9" selection-start="21" selection-end="21" vertical-scroll-proportion="0.019562716" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pt2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.024045262" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/EncodeRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="14" selection-start="608" selection-end="608" vertical-scroll-proportion="0.4530457" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gw/displaykey/mergeProperties.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="975" selection-end="1007" vertical-scroll-proportion="0.0">
+        <state line="18" column="47" selection-start="462" selection-end="493" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pt2/EncodeRunnerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="23" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RemoveDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="38" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gw/displaykey/removeDisplayKeysByKeyList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="365" selection-end="376" vertical-scroll-proportion="0.0">
+        <state line="13" column="38" selection-start="365" selection-end="401" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gw/rating/RemoveLanguageTranslation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="37" selection-start="444" selection-end="468" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gw/productmodel/JPGLCovCopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="19" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt2/RenameRecordedFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="28" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gw/install/EmeraldAccInstaller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="94" column="22" selection-start="3588" selection-end="3588" vertical-scroll-proportion="-39.037037">
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gw/symlink/makeSymlink.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="221" selection-end="221" vertical-scroll-proportion="0.030303031">
-          <folding />
+        <state line="17" column="33" selection-start="518" selection-end="518" vertical-scroll-proportion="0.17984694">
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -839,11 +1242,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PyFirst</last-edited>
+          <last-edited>PythonScripts</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

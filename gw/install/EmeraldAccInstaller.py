@@ -5,15 +5,23 @@ import argparse
 import zipfile
 import codecs
 import re
+import urllib.request
 
 parser = argparse.ArgumentParser(description='Unzip accelerator zip file to targetDir. Merge *.properties file. TargetDir must be root dir contains modules folder.')
-parser.add_argument('zipFile')
-parser.add_argument('targetDir')
+parser.add_argument('-i', '--input', required=True, help=r'zip file path or build url. e.g.) -i c:\tmp\base-module.zip or -i http://thfiles/builds/PC/8.0/8.0.3.270_20150527.0303_618017/')
+parser.add_argument('-m', '--modules', help='Required if input is url. Multiple modules should be comma separated without space e.g.) base,gl')
+parser.add_argument('-o', '--out', required=True, help=r'output directory c:\tmp\pc803')
 args = parser.parse_args()
 print(args)
 
-configuration = 'modules/configuration'
-target = os.path.join(args.targetDir, configuration)
+
+# Make zip url from build url http://thfiles/builds/PC/8.0/8.0.3.270_20150527.0303_618017/
+def makeZipURLFromBuild(url, module):
+    return  url + 'jrdc/' + module + '-module.zip'
+
+def downloadFromWeb(url):
+    local_filename, headers =urllib.request.urlretrieve(url)
+    return local_filename
 
 def readFileToMap(file, dic=None):
     if dic is None:
@@ -75,4 +83,17 @@ def unzip(zip_filename):
             unzip_file.close()
     zip_file.close()
 
-unzip(args.zipFile)
+# main
+configuration = 'modules/configuration'
+modules = args.modules.split(',')
+target = os.path.join(args.out, configuration)
+if args.input.startswith('http'):
+    for module in modules:
+        #make each url then download zip
+        zipPath = downloadFromWeb(makeZipURLFromBuild(args.input, module))
+        print('Temp file save at ' + zipPath)
+        unzip(zipPath)
+        print('Remove temp file : '+ zipPath)
+        os.remove(zipPath)
+else:
+    unzip(args.zipFile)
