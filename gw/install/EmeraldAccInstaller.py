@@ -40,9 +40,10 @@ def readFileToMap(file, dic=None):
         properties = dic
 
     for line in codecs.open(file, 'r', 'utf8'):
-        arr = re.compile(r' ?= ?').split(line)
+        arr = re.compile(r' ?= ?').split(line, maxsplit=1)
 
         if len(arr) != 2:
+            logger.warn('Cannot parse the line: '+ line)
             continue
         if arr[0] in properties and properties[arr[0]].rstrip() != arr[1].rstrip():
             logger.info('Duplicate key %s, old=%s new=%s' % (arr[0], properties[arr[0]], arr[1]))
@@ -56,9 +57,10 @@ def readLinesToMap(chunk, dic=None):
         properties = dic
 
     for line in chunk.splitlines():
-        arr = re.compile(r' ?= ?').split(line)
+        arr = re.compile(r' ?= ?').split(line, maxsplit=1)
 
         if len(arr) != 2:
+            logger.warn('Cannot parse the line: '+ line)
             continue
         if arr[0] in properties and properties[arr[0]].rstrip() != arr[1].rstrip():
             logger.info('Duplicate key %s, old=%s new=%s' % (arr[0], properties[arr[0]], arr[1]))
@@ -66,6 +68,7 @@ def readLinesToMap(chunk, dic=None):
     return properties
 
 def writeMap(file, dic):
+    logger.info('dic count is %d' % len(dic))
     for k, v in sorted(dic.items()):
         file.write(bytes(k + ' = ' + v.rstrip() + os.linesep, 'utf8'))
 
